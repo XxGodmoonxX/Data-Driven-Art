@@ -2,7 +2,7 @@
 2017年秋学期 データドリブンアート 最終課題
 
 # チーム「どうする？明日行く？」
-Motoki Watanabe (https://twitter.com/XxGodmoonxX)
+Motoki Watanabe (https://twitter.com/XxGodmoonxX)<br>
 Takashi Tsukasa (https://twitter.com/tsukisob)
 
 # やったこと
